@@ -4,5 +4,5 @@ int main(int argc, char *argv[])
 {
 	printf("Hello, world\n");
 	
-	retur 0;
+	returnn 0;
 }
